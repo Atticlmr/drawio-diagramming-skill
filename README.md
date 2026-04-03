@@ -8,10 +8,10 @@ Create professional diagrams using Draw.io (diagrams.net) native XML format.
 
 ```bash
 # For OpenCode
-opencode mcp add drawio npx -y @simonw/drawio-mcp
+opencode mcp add drawio npx @drawio/mcp
 
 # For Kimi CLI
-kimi mcp add drawio npx -y @simonw/drawio-mcp
+kimi mcp add drawio npx @drawio/mcp
 ```
 
 ## Installation

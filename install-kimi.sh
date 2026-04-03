@@ -44,7 +44,7 @@ echo "Target installation path: $INSTALL_PATH"
 echo ""
 
 # Create target directory
-mkdir -p "$(dirname "$INSTALL_PATH")"
+mkdir -p "$INSTALL_PATH"
 
 # Copy files
 echo "Copying skill files..."
